@@ -1,0 +1,11 @@
+#description-container {
+  margin-top: 20px;
+  width: 700px;
+}
+
+#description-container p{
+  text-align: center;
+  color: white;
+  font-size: 22px;
+}
+

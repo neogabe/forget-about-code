@@ -1,0 +1,16 @@
+#main-container {
+  margin-top: 110px;
+}
+
+#main-container h1 {
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+#main-container h2 {
+  margin-top: 20px;
+  color: white;
+  font-weight: 700;
+  font-size: 72px;
+}
