@@ -1,0 +1,19 @@
+#navbar-container {
+  display: flex;
+  list-style-type: none;
+  color: white;
+  justify-content: center;
+  margin: 85px auto;
+}
+
+#navbar-container li {
+  margin-left: 35px;
+  font-size: 18px;
+  line-height: 21px;
+  cursor: pointer;
+}
+
+#navbar-container li:hover {
+  -webkit-animation: heartBeat 2s;
+  animation: heartBeat 2s;
+}
